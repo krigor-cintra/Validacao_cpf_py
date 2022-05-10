@@ -14,7 +14,3 @@ def validação_cpf(cpf):
             return False
     else:
         return False
-
-
-#a=validação_cpf("          123.456.789-03 ")
-print(validação_cpf("12345678909 "))
